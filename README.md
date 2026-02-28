@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kapil 👋
+
+🎓 BCA Student  
+💻 Machine Learning Enthusiast  
+🚀 Projects:
+- Movie Recommendation System
+- Social Media Engagement Prediction Model
+
+🔧 Skills:
+Python | Machine Learning | Flask | Git | SQL
+
+📫 Connect with me:
+GitHub: https://github.com/kapilgatate
 
 <!--
 **kapilgatate/kapilgatate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
